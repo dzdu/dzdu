@@ -1,5 +1,5 @@
 ### Hi stranger 👋
-![](tenor.gif)
+![All Text](https://media3.giphy.com/media/aer096d3vD4rYVsgNn/giphy.gif?cid=ecf05e47qo9m351cyw6rt9ggxnsxppo2p3wyt5v26fctxduo&rid=giphy.gif&ct=g)
 - 🔭 Working at SelfPoint Sverige AB
 ## My current stack:
 - 👨‍💻 ReactJS
