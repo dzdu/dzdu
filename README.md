@@ -1,16 +1,37 @@
-### Hi there 👋
+### Hi stranger 👋
+![](tenor.gif)
+- 🔭 Working at SelfPoint Sverige AB
+## My current stack:
+- 👨‍💻 ReactJS
+- 👨‍💻 NodeJS
+- 👨‍💻 Express
+- 👨‍💻 MongoDB
+- 👨‍💻 JavaScript
+- 👨‍💻 Redux
+- 👨‍💻 Python
+- 👨‍💻 HTML & CSS
+- 👨‍🎨 UX Design
+- 🔥 Firebase
+## Have worked with
+- 📋 .NET
+- 📋 PHP
+- 📋 C#
+- 📋 CMS (WordPress – Elementor)
+- 📋 jQuerry
+- 📋 Angular
+- 📋 VueJS
+- 📋 Bootstrap 4
+- 📋 TypeScript
+- 📋 Debian Server
+- 📋 MySQL
+- 📋 GraphQL
+## Would like to learn
+- 📚 Docker & kubernetes
+- 📚 Swift
+- 📚 Python
+## Other information 😸
+- 😻 Love animals
+- 📫 How to reach me: 513dragan@gmail.com && instdeadangel@gmail.com
+- 😄 Pronouns: Russian, Swedish, English
+- ⚡ Fun fact: React is not so fast as you think 
 
-<!--
-**dzdu/dzdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
