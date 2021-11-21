@@ -9,6 +9,9 @@
 - 👨‍💻 JavaScript
 - 👨‍💻 Redux
 - 👨‍💻 Python
+- 👨‍💻 Debian / Linux
+- 👨‍💻 K8
+- 👨‍💻 Docker
 - 👨‍💻 HTML & CSS
 - 👨‍🎨 UX Design
 - 🔥 Firebase
@@ -22,7 +25,6 @@
 - 📋 VueJS
 - 📋 Bootstrap 4
 - 📋 TypeScript
-- 📋 Debian Server
 - 📋 MySQL
 - 📋 GraphQL
 ## Would like to learn
