@@ -28,9 +28,7 @@
 - 📋 MySQL
 - 📋 GraphQL
 ## Would like to learn
-- 📚 Docker & kubernetes
 - 📚 Swift
-- 📚 Python
 ## Other information 😸
 - 😻 Love animals
 - 📫 How to reach me: 513dragan@gmail.com && instdeadangel@gmail.com
